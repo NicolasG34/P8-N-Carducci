@@ -1,0 +1,24 @@
+Modifications:
+
+-Changer les images:
+
+Éviter les changements de mise en page importants 1 décalage de mise en page trouvé
+Élément identifié comme "Largest Contentful Paint" 9 530 ms
+Diffusez des images aux formats nouvelle génération 
+Dimensionnez correctement les images 
+Éliminez les ressources qui bloquent le rendu
+Encodez les images de manière efficace 
+
+
+-Changer autre(network payloads, cache,...):
+
+Évitez d'énormes charges utiles de réseau La taille totale était de 30 352 Kio
+Réduire au maximum l'utilisation de code tiers Le thread principal a été bloqué par du code tiers pendant 220 ms
+Évitez les tâches longues dans le thread principal 1 tâche longue trouvée
+Évitez de créer des chaînes de requêtes critiques 10 chaînes trouvées
+Serve static assets with an efficient cache policy
+Potential savings of 27.1MB
+
+
+
+
