@@ -113,7 +113,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: calc(1.3rem + 0.6vw);
+  font-size: calc(1.3rem + 0.4vw) !important;
 }
 @media (min-width: 1200px) {
   h2, .h2 {
@@ -326,6 +326,7 @@ th {
 
 label {
   display: inline-block;
+   width: 100%;
 }
 
 button {
