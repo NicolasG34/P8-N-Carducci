@@ -90,6 +90,10 @@ body {
 	font-size: 14px;
 }
 
+#about-me h3 {
+	font-size: 1rem !important;
+}
+
 #gallery {
 	/*	min-height: 100vh; */
 }
